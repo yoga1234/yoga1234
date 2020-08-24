@@ -1,4 +1,4 @@
-### Hi there, Yoga - aka Yogasmara 👋
+### Hi there, I'm Yoga - aka Yogasmara 👋
 
 [![Website](https://img.shields.io/uptimerobot/status/m785817325-db9e8fbd9991b12c5ba3b452?label=Y%20O%20G%20A%20S%20M%20A%20R%20A%20.%20C%20O%20M&style=for-the-badge)](https://yogasmara.com)
 ## JAVASCRIPT ENGINEER
