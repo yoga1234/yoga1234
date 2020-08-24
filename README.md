@@ -1,8 +1,6 @@
-### Hi there, I'm Jesse - aka [codeSTACKr][website] 👋
+### Hi there, Yoga - aka Yogmasmara 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://codestackr.com)
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https%3A%2F%2Fgithub.com%2FcodeSTACKr&screen_name=codeSTACKr)
-
+[![Website](https://img.shields.io/uptimerobot/status/m785817325-db9e8fbd9991b12c5ba3b452?label=Y%20O%20G%20A%20S%20M%20A%20R%20A%20.%20C%20O%20M&style=for-the-badge)](https://yogasmara.com)
 ## I'm a Husband, Father, Developer, and Teacher!
 
 - 🔭 I’m currently working on a [VS Code Course][website]!
