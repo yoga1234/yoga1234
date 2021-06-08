@@ -32,8 +32,6 @@
 
 ---
 
-  <summary>Github Stats</summary>
-
 
 [website]: https://yogasmara.com
 [twitter]: https://twitter.com/Septian13779693
