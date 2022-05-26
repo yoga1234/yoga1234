@@ -1,8 +1,4 @@
 ### Hi there, I'm Yoga - aka Yogasmara 👋
-[![Linkedin Badge](https://img.shields.io/badge/-SeptianaYoga-green?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/septiana-yoga-0043611b6/)](https://www.linkedin.com/in/jlim/)
-[![Instagram Badge](https://img.shields.io/badge/-@septianayoga30-red?style=flat&logo=instagram&logoColor=white&link=[https://instagram.com/_jessicaalim/](https://www.instagram.com/septianayoga30/))]([https://instagram.com/_jessicaalim](https://www.instagram.com/septianayoga30/))
-[![Gmail Badge](https://img.shields.io/badge/-SeptianaYoga-pink?style=flat&logo=Gmail&logoColor=white&link=mailto:septianayoga30@gmail.com)](mailto:septianayoga30@gmail.com)
-
 
 Welcome to my Github Profile.
 I'm Frontend Developer from Bandung, Indonesia
@@ -11,6 +7,7 @@ I'm Frontend Developer from Bandung, Indonesia
 
 - Currently I'm learning ReactJS, Javascript.
 - Still learning Javascript environment, tools, etc.
+- I'm learn a lot of stuff.
 
 ### Connect with me:
 
