@@ -1,8 +1,15 @@
 ### Hi there, I'm Yoga - aka Yogasmara 👋
+[![Linkedin Badge](https://img.shields.io/badge/-SeptianaYoga-green?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/septiana-yoga-0043611b6/)](https://www.linkedin.com/in/jlim/)
+[![Instagram Badge](https://img.shields.io/badge/-@septianayoga30-red?style=flat&logo=instagram&logoColor=white&link=[https://instagram.com/_jessicaalim/](https://www.instagram.com/septianayoga30/))]([https://instagram.com/_jessicaalim](https://www.instagram.com/septianayoga30/))
+[![Gmail Badge](https://img.shields.io/badge/-SeptianaYoga-pink?style=flat&logo=Gmail&logoColor=white&link=mailto:septianayoga30@gmail.com)](mailto:septianayoga30@gmail.com)
 
-## JAVASCRIPT ENGINEER
 
-- I'm working with Javascript.
+Welcome to my Github Profile.
+I'm Frontend Developer from Bandung, Indonesia
+
+## Frontend Developer
+
+- Currently I'm learning ReactJS, Javascript.
 - Still learning Javascript environment, tools, etc.
 
 ### Connect with me:
@@ -24,7 +31,6 @@
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][nolink]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />][nolink]
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][nolink]
-[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][nolink]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][nolink]
 
 <br />
