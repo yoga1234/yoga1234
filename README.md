@@ -8,14 +8,19 @@ I'm Frontend Developer from Bandung, Indonesia
 - Currently I'm learning ReactJS, Javascript.
 - Still learning Javascript environment, tools, etc.
 - I'm learn a lot of stuff.
+- Enthusiast Frontend Developer.
+- Figma to design an elegant websites.
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[![Github Repo](https://img.shields.io/badge/Github-SeptianaYoga-pink?style=for-the-badge&logo=github)][github]
+[![Youtube Channel](https://img.shields.io/badge/Youtube-SeptianaYoga-blue?style=for-the-badge&logo=youtube)][youtube]
+[![Instagram](https://img.shields.io/badge/Instagram-SeptianaYoga-red?style=for-the-badge&logo=instagram)][instagram]
+[![Linkedin Profile](https://img.shields.io/badge/linkedin-SeptianaYoga-green?style=for-the-badge&logo=linkedin)][linkedin]
+[![Facebook Profile](https://img.shields.io/badge/facebook-SeptianaYoga-yellow?style=for-the-badge&logo=facebook)][facebook]
+[![Twitter](https://img.shields.io/badge/twitter-SeptianaYoga-aqua?style=for-the-badge&logo=twitter)][twitter]
+[![Dribbble Profile](https://img.shields.io/badge/Dribbble-SeptianaYoga-purple?style=for-the-badge&logo=dribbble)][dribbble]
 
-<br />
 
 ### Languages and Tools:
 
@@ -30,15 +35,35 @@ I'm Frontend Developer from Bandung, Indonesia
 [<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][nolink]
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][nolink]
 
-<br />
-<br />
+
+<br/>
+<br/>
+
+
+
+![Yogasmara's github stats](https://github-readme-stats.vercel.app/api?username=yoga1234)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoga1234)](https://github.com/yoga1234/github-readme-stats)
+
+
+## Some of my work you can check:
+[![Tip-calculato](https://github-readme-stats.vercel.app/api/pin/?username=yoga1234&repo=tip-calculator)](https://github.com/yoga1234/tip-calculator)
+[![Product-Overview](https://github-readme-stats.vercel.app/api/pin/?username=yoga1234&repo=product-overview)](https://github.com/yoga1234/product-overview)
+[![Frontend-Challenge](https://github-readme-stats.vercel.app/api/pin/?username=yoga1234&repo=frontendmentor-challenges)](https://github.com/yoga1234/frontendmentor-challenges)
 
 ---
 
-
-[website]: https://yogasmara.com
-[twitter]: https://twitter.com/Septian13779693
-[youtube]: https://www.youtube.com/channel/UCf27CI44drWipIvCm8_RXvA?view_as=subscriber
+[github]: https://github.com/yoga1234
+[youtube]: https://www.youtube.com/channel/UCf27CI44drWipIvCm8_RXvA
 [instagram]: https://www.instagram.com/septianayoga30/
+[linkedin]: https://www.linkedin.com/in/septiana-yoga-0043611b6/
+[facebook]: https://www.facebook.com/ghaa.sesepuh/
+[twitter]: https://twitter.com/diriku123456789
+[dribbble]: https://dribbble.com/yoga1234
+
+
+
+
 [nolink]: #
 
