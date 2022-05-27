@@ -51,7 +51,7 @@ I'm Frontend Developer from Bandung, Indonesia
 [![Tip-calculato](https://github-readme-stats.vercel.app/api/pin/?username=yoga1234&repo=tip-calculator)](https://github.com/yoga1234/tip-calculator)
 [![Product-Overview](https://github-readme-stats.vercel.app/api/pin/?username=yoga1234&repo=product-overview)](https://github.com/yoga1234/product-overview)
 [![Frontend-Challenge](https://github-readme-stats.vercel.app/api/pin/?username=yoga1234&repo=frontendmentor-challenges)](https://github.com/yoga1234/frontendmentor-challenges)
-[![Restaurant-Website](https://github-readme-stats.vercel.app/api/pin/?username=yoga1234&repo=product-overview)](https://github.com/yoga1234/restaurant-website-react)
+[![Restaurant-Website](https://github-readme-stats.vercel.app/api/pin/?username=yoga1234&repo=restaurant-website-react)](https://github.com/yoga1234/restaurant-website-react)
 
 ---
 
