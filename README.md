@@ -8,7 +8,7 @@ I'm Frontend Developer from Bandung, Indonesia
 - Currently I'm learning ReactJS, Javascript.
 - Still learning Javascript environment, tools, etc.
 - I'm learn a lot of stuff.
-- Enthusiast Frontend Developer.
+- Enthusiast and Passionate Frontend Developer.
 - Figma to design an elegant websites.
 
 ### Connect with me:
