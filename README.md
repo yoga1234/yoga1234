@@ -10,6 +10,8 @@ I'm Frontend Developer from Bandung, Indonesia
 - I'm learn a lot of stuff.
 - Enthusiast and Passionate Frontend Developer.
 - Figma to design an elegant websites.
+- I'm a human.
+- Plan, Design, Code, Test, Deploy.
 
 ### Connect with me:
 
