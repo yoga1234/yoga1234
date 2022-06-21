@@ -12,7 +12,7 @@ I'm Frontend Developer from Bandung, Indonesia
 - Figma to design an elegant websites.
 - I'm a human.
 - Plan, Design, Code, Test, Deploy.
-- Constant Learning.
+- Constant Learning and Moving Forward.
 
 ### Connect with me:
 
