@@ -19,10 +19,13 @@ I'm Frontend Developer from Bandung, Indonesia
 
 [![Github Repo](https://img.shields.io/badge/Github-SeptianaYoga-pink?style=for-the-badge&logo=github)][github]
 [![Youtube Channel](https://img.shields.io/badge/Youtube-SeptianaYoga-blue?style=for-the-badge&logo=youtube)][youtube]
+
 [![Instagram](https://img.shields.io/badge/Instagram-SeptianaYoga-red?style=for-the-badge&logo=instagram)][instagram]
 [![Linkedin Profile](https://img.shields.io/badge/linkedin-SeptianaYoga-green?style=for-the-badge&logo=linkedin)][linkedin]
+
 [![Facebook Profile](https://img.shields.io/badge/facebook-SeptianaYoga-yellow?style=for-the-badge&logo=facebook)][facebook]
 [![Twitter](https://img.shields.io/badge/twitter-SeptianaYoga-aqua?style=for-the-badge&logo=twitter)][twitter]
+
 [![Dribbble Profile](https://img.shields.io/badge/Dribbble-SeptianaYoga-purple?style=for-the-badge&logo=dribbble)][dribbble]
 
 
