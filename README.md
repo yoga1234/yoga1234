@@ -10,7 +10,6 @@ I'm Frontend Developer from Bandung, Indonesia
 - Code website with HTML, CSS and Javascript.
 - Enthusiast and Passionate Frontend Developer.
 - Figma to design an elegant websites.
-- I'm a human.
 - Plan, Design, Code, Test, Deploy.
 - Constant Learning and Moving Forward.
 - The purpose of our lives is to be happy.
