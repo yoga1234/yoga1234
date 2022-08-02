@@ -13,6 +13,7 @@ I'm Frontend Developer from Bandung, Indonesia
 - Plan, Design, Code, Test, Deploy.
 - Constant Learning and Moving Forward.
 - The purpose of our lives is to be happy.
+- I am a human.
 
 ### Connect with me:
 
