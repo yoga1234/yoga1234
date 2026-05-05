@@ -46,13 +46,6 @@ I'm Frontend Developer from Bandung, Indonesia
 <br/>
 
 
-
-![Yogasmara's github stats](https://github-readme-stats.vercel.app/api?username=yoga1234)
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yoga1234)](https://github.com/yoga1234/github-readme-stats)
-
-
 ## Some of my work you can check:
 [![Tip-calculato](https://github-readme-stats.vercel.app/api/pin/?username=yoga1234&repo=tip-calculator)](https://github.com/yoga1234/tip-calculator)
 [![Product-Overview](https://github-readme-stats.vercel.app/api/pin/?username=yoga1234&repo=product-overview)](https://github.com/yoga1234/product-overview)
